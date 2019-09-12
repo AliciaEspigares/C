@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1533127706 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 1\probando cosis\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1522462403 source:c:\users\alicia espigares\uni\ie&ai 3º\2º cuatrimestre\sistemas informáticos industriales\prácticas\segundo intento\practica3\practica3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+	"practica3.h"
+
+1489680012 c:\users\alicia espigares\uni\ie&ai 3º\2º cuatrimestre\sistemas informáticos industriales\prácticas\segundo intento\practica3\practica3.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1522462276 source:c:\users\alicia espigares\uni\ie&ai 3º\2º cuatrimestre\sistemas informáticos industriales\prácticas\segundo intento\practica3\practica3_entrega.c
+	"practica3.h"
+
+1523519148 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\segundo intento\practica3\practica3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+	"practica3.h"
+
+1489680012 c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\segundo intento\practica3\practica3.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1523518663 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\segundo intento\practica3\practica3_entrega.c
+	"practica3.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537706495 source:c:\users\alicia espigares\creciendo como ingeniera\programming programes\c\programando\doingsomething\pruebas\escape room prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

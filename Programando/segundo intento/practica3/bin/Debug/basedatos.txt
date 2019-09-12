@@ -1,0 +1,55 @@
+5
+Pepito Pérez Grillo
+44111225
+Avda. de la Universidad, 8
+3202
+Elche
+Alicante
+Francia
+5542502
+pepito@gmail.com
+20 4 1989
+
+Christina
+31111222
+Unter den Linden, 1
+43568
+Berlin
+Berlin
+Alemania
+4452503
+amigo@hotmail.com
+2 5 1989
+
+Christoph
+17111222
+Street german, 56
+13478
+Bremen
+Bremen
+Alemania
+5512518
+christoph.bremen@hotmail.com
+12 3 1989
+
+Anderson
+17111222
+Street, 1
+13478
+Berlin
+Berlin
+Alemania
+5512519
+anderson.berlin@hotmail.com
+22 3 1983
+
+Manolo García Serrano
+44111222
+Avda. de la Libertad, 8
+3201
+Elche
+Alicante
+España
+5552501
+manolo.gs@gmail.com
+13 4 1989

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529500728 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 1\practica 1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,88 @@
+8
+Pedro
+27111226
+Avda. Larga, 8
+01010
+Altet
+Alicante
+España
+5512509
+amigo.altet@hotmail.com
+12 3 1985
+
+Pepe
+44111225
+Avda. de la Universidad, 8
+03310
+Elche
+Alicante
+Francia
+5542502
+pepito@gmail.com
+20 4 1989
+
+Marcos
+27111226
+Avda. Larga, 8
+00310
+Altet
+Alicante
+España
+5512509
+amigo.altet@hotmail.com
+12 3 1985
+
+Sanjo
+44111225
+Avda. de la Universidad, 8
+31130
+Elche
+Alicante
+Alemania
+5542502
+pepito@gmail.com
+20 4 1989
+
+Luis
+27111226
+Avda. Larga, 8
+01030
+Altet
+Alicante
+Francia
+5512509
+amigo.altet@hotmail.com
+12 3 1985
+
+Nefer
+44111225
+Avda. de la Universidad, 8
+00310
+Elche
+Alicante
+España
+5542502
+pepito@gmail.com
+20 4 1989
+
+Leo
+27111226
+Avda. Larga, 8
+31130
+Altet
+Alicante
+Alemania
+5512509
+amigo.altet@hotmail.com
+12 3 1985
+
+Mayor
+44111225
+Avda. de la Universidad, 8
+41790
+Elche
+Alicante
+España
+5542502
+pepito@gmail.com
+20 4 1989
